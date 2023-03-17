@@ -115,6 +115,9 @@ function EpochDetail() {
                     />
                 </Card>
             </div>
+            <div>
+                sui
+            </div>
 
             <TabGroup size="lg">
                 <TabList>
