@@ -30,6 +30,7 @@ flowchart LR
       AS[AuthorityState]
     end
     subgraph Authority2
+    123sui
       AS2[AuthorityState]
     end
     AC1 <==>|Network TCP| Authority1
